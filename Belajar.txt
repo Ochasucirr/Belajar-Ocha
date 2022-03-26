@@ -13,3 +13,7 @@ Belajar Otodidak Suci Rahma Rosa
 6. Ms power point
 -----------------------------------
 7. Mendesain di Figma
+-----------------------------------
+8. Memahami bahasa pemrograman css
+-----------------------------------
+9. Memahami bahasa pemrograman python
