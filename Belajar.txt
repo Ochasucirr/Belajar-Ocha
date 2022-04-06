@@ -17,3 +17,9 @@ Belajar Otodidak Suci Rahma Rosa
 8. Memahami bahasa pemrograman css
 -----------------------------------
 9. Memahami bahasa pemrograman python
+-----------------------------------
+10. Belajar Membuat Augmented Reality dengan Lens Studio
+-----------------------------------
+11. Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)
+-----------------------------------
+12. Memahami bahasa pemrograman CSS
